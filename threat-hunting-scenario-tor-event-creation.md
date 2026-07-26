@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Eduardo Garcia
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: www.linkedin.com/in/eduardogarciait/
 - **Date**: July 09, 2026
 
 ## Validated By:
